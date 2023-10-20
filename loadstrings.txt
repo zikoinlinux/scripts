@@ -1,0 +1,14 @@
+--Dick Gun
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zikoinlinux/scripts/main/D**k%20Gun.txt"))();
+
+--c00lgui
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zikoinlinux/scripts/main/c00lgui.txt"))();
+
+--fanmade c00lgui
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zikoinlinux/scripts/main/c00lgui%20fanmade.txt"))();
+
+--grab knife
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zikoinlinux/scripts/main/Grab%20Knife.txt"))();
+
+--prisongui
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zikoinlinux/scripts/main/prisongui.txt"))();
